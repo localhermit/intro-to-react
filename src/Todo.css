@@ -95,6 +95,15 @@ li{
 
 }
 
+.todo{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .delete:hover {
     background-color: rgb(249, 141, 159);
     color:rgb(255, 254, 245);
